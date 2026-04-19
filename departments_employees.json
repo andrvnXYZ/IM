@@ -1,0 +1,30 @@
+{
+  "department_name": "IT",
+  "city": "Seattle",
+  "employees": [
+    {
+      "id": 101,
+      "first_name": "Bruce",
+      "last_name": "Wayne",
+      "hire_date": "2018-03-15",
+      "job_title": "Programmer",
+      "salary": 75000
+    },
+    {
+      "id": 102,
+      "first_name": "Diana",
+      "last_name": "Prince",
+      "hire_date": "2019-07-22",
+      "job_title": "Systems Analyst",
+      "salary": 82000
+    },
+    {
+      "id": 103,
+      "first_name": "Clark",
+      "last_name": "Kent",
+      "hire_date": "2020-01-10",
+      "job_title": "Network Engineer",
+      "salary": 79000
+    }
+  ]
+}
